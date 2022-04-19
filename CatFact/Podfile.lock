@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.1)
+  - CRNotifications (1.2.1)
+  - lottie-ios (3.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CRNotifications
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CRNotifications
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  CRNotifications: 2799786cb63e104c75699843d8928afd680182f3
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+
+PODFILE CHECKSUM: 0d6c75e8d92cc7bff14b9fa9f1ae81501f9529db
+
+COCOAPODS: 1.11.3
